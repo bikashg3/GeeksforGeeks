@@ -2,7 +2,7 @@ def kadane(arr,n):
     gmax=arr[0]
     curmax=arr[0]
     for i in range(1,n):
-        curmax=max(curmax,arr[i]+curmax)
+        curmax=max(arr[i],arr[i]+curmax)
         gmax=max(curmax,gmax)
     return gmax
 
