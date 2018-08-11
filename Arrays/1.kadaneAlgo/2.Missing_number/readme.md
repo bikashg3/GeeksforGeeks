@@ -20,9 +20,9 @@ Print the missing number in array.
 
 1 ≤ C[i] ≤ 1000
 
-**Example: **
+**Example:**
 
-**Input **
+**Input**
 
 2
 
