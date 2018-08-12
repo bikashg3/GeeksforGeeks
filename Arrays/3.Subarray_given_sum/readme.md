@@ -1,5 +1,6 @@
 # Given an unsorted array of non-negative integers, find a continuous sub-array which adds to a given number.
 
+
 **Input: **
 
 The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. Each test case consists of two lines. The first line of each test case is N and S, where N is the size of array and S is the sum. The second line of each test case contains N space separated integers denoting the array elements.
