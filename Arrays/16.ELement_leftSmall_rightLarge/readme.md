@@ -1,4 +1,4 @@
-#Element with left side smaller and right side greater
+# Element with left side smaller and right side greater
 
 Given an unsorted array of size N. Find the first element in array such that all of its left elements are smaller and all right elements to it are greater than it.
 
