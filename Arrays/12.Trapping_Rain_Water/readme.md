@@ -18,8 +18,10 @@ Output:
 
 Structure is like below
 
-| |
-|_|
+|   |
+
+| _ |
+
 
 We can trap 2 units of water in the middle gap.
 
